@@ -1,0 +1,42 @@
+Arduino Uno LED Connections
+
+Hardware Connections:
+
+Red LED (Pin 13):
+Anode (long leg) to digital pin 13
+Cathode (short leg) to a 220-330 ohm resistor
+Resistor to GND
+
+Yellow LED (Pin 12):
+
+Anode to digital pin 12
+Cathode to a 220-330 ohm resistor
+Resistor to GND
+
+Green LED (Pin 11):
+
+Anode to digital pin 11
+Cathode to a 220-330 ohm resistor
+Resistor to GND
+
+Red LED (Pin 10):
+Anode to digital pin 10
+Cathode to a 220-330 ohm resistor
+Resistor to GND
+
+Yellow LED (Pin 9):
+
+Anode to digital pin 9
+Cathode to a 220-330 ohm resistor
+Resistor to GND
+
+Green LED (Pin 8):
+
+Anode to digital pin 8
+Cathode to a 220-330 ohm resistor
+Resistor to GND
+
+Notes
+
+Ensure proper orientation of LEDs (anode to Arduino pin, cathode to resistor).
+Use a USB cable to power the Arduino Uno.
